@@ -6,3 +6,6 @@ layer has the same color, and "icon" but the rest is data from REI minimap
 format.
 
 This was tossed together on short notice, with zero intention to improve upon.
+
+
+Example files in the 'Example Files' Folder were obtained from minezmap.com
