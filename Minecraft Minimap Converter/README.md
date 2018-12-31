@@ -1,3 +1,5 @@
+# Minecraft Minimap Converter
+
 This was developed by Darrick Ross for the purpose of converting minecraft
 minimap mod file types. From REI Minimap format into Voxel Minimap format.
 This was expressly built for the purpose of converting and combining
