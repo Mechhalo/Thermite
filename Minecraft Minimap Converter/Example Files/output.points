@@ -1,0 +1,284 @@
+subworlds:Minez,Shotbow Hub,
+oldNorthWorlds:
+seeds:
+name:Anemos Sanctum,x:300,z:-3600,y:145,enabled:true,red:0.4980392,green:0.0,blue:0.0,suffix:skull,world:Minez,dimensions:0#
+name:Desert Canyon Sanctuary,x:3065,z:-2160,y:205,enabled:true,red:0.4980392,green:0.0,blue:0.0,suffix:skull,world:Minez,dimensions:0#
+name:Frostbain Catacombs,x:-280,z:-2680,y:85,enabled:true,red:0.4980392,green:0.0,blue:0.0,suffix:skull,world:Minez,dimensions:0#
+name:Paluster Shrine,x:-450,z:-1600,y:50,enabled:true,red:0.4980392,green:0.0,blue:0.0,suffix:skull,world:Minez,dimensions:0#
+name:Shrine of the Dusk,x:570,z:-3130,y:140,enabled:true,red:0.4980392,green:0.0,blue:0.0,suffix:skull,world:Minez,dimensions:0#
+name:Aeternalis Crypt,x:3915,z:-540,y:58,enabled:true,red:1.0,green:0.5137254,blue:0.0,suffix:temple,world:Minez,dimensions:0#
+name:Anvalia Mines,x:3220,z:-620,y:65,enabled:true,red:1.0,green:0.5137254,blue:0.0,suffix:temple,world:Minez,dimensions:0#
+name:Asindia Ruins,x:1440,z:-1050,y:10,enabled:true,red:1.0,green:0.5137254,blue:0.0,suffix:temple,world:Minez,dimensions:0#
+name:Body Offload,x:-1620,z:-380,y:80,enabled:true,red:1.0,green:0.5137254,blue:0.0,suffix:temple,world:Minez,dimensions:0#
+name:Byesford Labs,x:-2490,z:-3680,y:58,enabled:true,red:1.0,green:0.5137254,blue:0.0,suffix:temple,world:Minez,dimensions:0#
+name:Conagher's Abandoned Mineshaft,x:880,z:-1680,y:30,enabled:true,red:1.0,green:0.5137254,blue:0.0,suffix:temple,world:Minez,dimensions:0#
+name:Dark Mansion,x:-45,z:-3795,y:210,enabled:true,red:1.0,green:0.5137254,blue:0.0,suffix:temple,world:Minez,dimensions:0#
+name:Darnie's Dungeon Practice,x:-3090,z:495,y:80,enabled:true,red:1.0,green:0.5137254,blue:0.0,suffix:temple,world:Minez,dimensions:0#
+name:Devil's Respite,x:555,z:-889,y:35,enabled:true,red:1.0,green:0.5137254,blue:0.0,suffix:temple,world:Minez,dimensions:0#
+name:Eclipsed Ruins,x:3420,z:-1765,y:50,enabled:true,red:1.0,green:0.5137254,blue:0.0,suffix:temple,world:Minez,dimensions:0#
+name:Exolesco Tunnels,x:-2847,z:-1020,y:65,enabled:true,red:1.0,green:0.5137254,blue:0.0,suffix:temple,world:Minez,dimensions:0#
+name:Flooded Tunnels,x:-1630,z:-730,y:130,enabled:true,red:1.0,green:0.5137254,blue:0.0,suffix:temple,world:Minez,dimensions:0#
+name:Ghost Fleet,x:-1430,z:-3800,y:180,enabled:true,red:1.0,green:0.5137254,blue:0.0,suffix:temple,world:Minez,dimensions:0#
+name:Krubera Vault,x:90,z:-1010,y:50,enabled:true,red:1.0,green:0.5137254,blue:0.0,suffix:temple,world:Minez,dimensions:0#
+name:Lost Thieves' Guild,x:-1865,z:-570,y:200,enabled:true,red:1.0,green:0.5137254,blue:0.0,suffix:temple,world:Minez,dimensions:0#
+name:Mantle,x:-780,z:-3690,y:100,enabled:true,red:1.0,green:0.5137254,blue:0.0,suffix:temple,world:Minez,dimensions:0#
+name:Maze of the Tenth,x:-207,z:-570,y:180,enabled:true,red:1.0,green:0.5137254,blue:0.0,suffix:temple,world:Minez,dimensions:0#
+name:Meteor Crater,x:3360,z:-2960,y:175,enabled:true,red:1.0,green:0.5137254,blue:0.0,suffix:temple,world:Minez,dimensions:0#
+name:Mount Therum,x:-810,z:-3750,y:160,enabled:true,red:1.0,green:0.5137254,blue:0.0,suffix:temple,world:Minez,dimensions:0#
+name:Necromancer Tower,x:215,z:-3780,y:160,enabled:true,red:1.0,green:0.5137254,blue:0.0,suffix:temple,world:Minez,dimensions:0#
+name:Overgrown Tomb,x:-2150,z:-1840,y:18,enabled:true,red:1.0,green:0.5137254,blue:0.0,suffix:temple,world:Minez,dimensions:0#
+name:Path of Light,x:3640,z:-3120,y:120,enabled:true,red:1.0,green:0.5137254,blue:0.0,suffix:temple,world:Minez,dimensions:0#
+name:Red Demon Temple,x:3260,z:-1620,y:90,enabled:true,red:1.0,green:0.5137254,blue:0.0,suffix:temple,world:Minez,dimensions:0#
+name:Sacrificial Pit,x:-1470,z:-3650,y:180,enabled:true,red:1.0,green:0.5137254,blue:0.0,suffix:temple,world:Minez,dimensions:0#
+name:Saward Crypt,x:-956,z:-3572,y:85,enabled:true,red:1.0,green:0.5137254,blue:0.0,suffix:temple,world:Minez,dimensions:0#
+name:St. Roseluck Crypt,x:2060,z:-430,y:50,enabled:true,red:1.0,green:0.5137254,blue:0.0,suffix:temple,world:Minez,dimensions:0#
+name:Sunken Library,x:-3050,z:-3680,y:80,enabled:true,red:1.0,green:0.5137254,blue:0.0,suffix:temple,world:Minez,dimensions:0#
+name:Veleno Temple,x:-714,z:-2070,y:15,enabled:true,red:1.0,green:0.5137254,blue:0.0,suffix:temple,world:Minez,dimensions:0#
+name:Warped Ruins,x:-2520,z:-2175,y:85,enabled:true,red:1.0,green:0.5137254,blue:0.0,suffix:temple,world:Minez,dimensions:0#
+name:Wizard Tower,x:215,z:-3165,y:70,enabled:true,red:1.0,green:0.5137254,blue:0.0,suffix:temple,world:Minez,dimensions:0#
+name:Abandoned Farm,x:1020,z:-2950,y:65,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Aeternalis Cathedral,x:3915,z:-575,y:125,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Afaya,x:2720,z:-570,y:95,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Agni Ignis,x:3635,z:-3280,y:340,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Al Hasa Quarry,x:1670,z:-2580,y:95,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Al Hasa,x:1590,z:-3110,y:120,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Altin,x:860,z:-1370,y:10,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Anti-Zombie Fortress,x:-1020,z:-550,y:120,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Anvalia,x:3180,z:-545,y:205,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Arbreton,x:-2500,z:-1910,y:120,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Aspermont,x:-2850,z:-2140,y:120,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Aurora,x:50,z:-1540,y:40,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Axis Mundi,x:800,z:-3835,y:170,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Barathrum Caverns,x:230,z:-1950,y:18,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Bazel,x:1760,z:-1195,y:130,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Bell Farm,x:830,z:390,y:110,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Byesford Castle,x:-2410,z:-3710,y:160,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Camp Azara,x:1390,z:-2215,y:130,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Camp Bell,x:900,z:480,y:90,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Camp Kharj,x:990,z:-2580,y:115,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Carmi,x:2520,z:440,y:90,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Carnival,x:-2450,z:-450,y:140,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Castle Wayvernia,x:-1215,z:-3420,y:115,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Cave of the Dead Lady,x:230,z:-3360,y:40,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Clarce,x:5,z:-1920,y:130,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Cole Castle,x:3600,z:-500,y:140,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Consilio University,x:100,z:100,y:130,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Crowmure Farm,x:-2045,z:-3335,y:76,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Crowmure,x:-1630,z:-3370,y:135,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Death Mansion,x:790,z:-3475,y:110,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Devil's Castle,x:-900,z:-1420,y:110,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Eillom,x:1650,z:-2200,y:90,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Ephirion,x:720,z:-1100,y:25,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Evergreen Manor,x:-370,z:-410,y:110,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Exolesco,x:-2900,z:-1050,y:80,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Fire Spire,x:660,z:-185,y:165,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Floating Islands,x:2000,z:-3800,y:195,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Forest,x:-1500,z:-2000,y:160,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Fort Erie,x:430,z:-1650,y:155,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Fort Forthwind,x:3655,z:-1205,y:125,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Fort Kharj,x:1270,z:-3430,y:95,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Fort McHarlington,x:2240,z:-2930,y:110,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Fort Rockwood,x:3630,z:-870,y:135,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Fort Saward,x:-1010,z:-3600,y:160,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Frostbain,x:-330,z:-2680,y:140,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Frostine Valley Acres,x:930,z:-1300,y:80,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Geuten,x:3660,z:380,y:120,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Giant's Camp,x:1260,z:-3150,y:90,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Grandfather's Curse,x:2980,z:265,y:110,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Grayvale,x:2450,z:-1890,y:240,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Grimdale Farm,x:-2200,z:70,y:90,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Grimdale,x:-1750,z:370,y:110,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Heartless Mansion,x:3420,z:30,y:125,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Hell Tree,x:-970,z:-3890,y:220,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Huntsgrove,x:1020,z:-40,y:95,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Jacsebalon Mansion,x:3220,z:210,y:90,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Kaocho,x:-2990,z:270,y:110,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Kauri,x:3805,z:-2835,y:230,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Knoxmoor,x:980,z:-2020,y:90,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Krubera,x:60,z:-1100,y:50,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Lazerville,x:-2400,z:-2550,y:70,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Logging Camp,x:-1110,z:-970,y:100,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Lorfaul Mines,x:-760,z:-2000,y:130,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Lost Woods Shrine,x:-1155,z:-2875,y:100,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Mclovinville,x:-1320,z:-1555,y:100,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Medusa Lake,x:600,z:-1830,y:30,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Mining Town,x:1475,z:-3720,y:160,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Mount Longton,x:3130,z:-10,y:110,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Outpost Adera,x:-2830,z:-3560,y:160,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Paluster,x:-450,z:-1605,y:105,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Pileus,x:3695,z:-1470,y:150,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Pirate Ship,x:750,z:-2220,y:70,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Portsmouth,x:-70,z:500,y:100,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Pravus,x:-1090,z:270,y:70,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Quarry,x:-2680,z:-2820,y:90,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Ravine,x:300,z:-1300,y:90,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Ridgevale,x:680,z:-570,y:90,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Riel,x:100,z:-2670,y:20,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Riftus,x:515,z:-1660,y:55,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Romero,x:1720,z:400,y:140,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Sanctuary of Peace,x:-1740,z:-2970,y:90,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Sathara,x:-710,z:-2070,y:47,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Septus,x:500,z:-2050,y:30,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Sirus,x:1100,z:-1525,y:30,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Somnia,x:-2800,z:-280,y:180,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:St. Joseph's Graveyard,x:-390,z:20,y:90,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:St. Roseluck Island,x:2060,z:-430,y:100,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Statue of Agni,x:-315,z:-2545,y:165,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Stillwater Motte,x:-2650,z:-1430,y:120,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Stonehenge,x:1550,z:-800,y:110,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Sundawn Observatory,x:1980,z:-890,y:130,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Sunken Tower,x:1850,z:-2715,y:80,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Tahosa,x:655,z:-1550,y:28,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Tenebris,x:2030,z:-3170,y:90,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Thannus,x:665,z:-1005,y:20,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:The Lost Castle,x:-1870,z:-580,y:250,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:The Shire,x:-1240,z:-2440,y:100,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Thieves' Guild,x:-1745,z:360,y:5,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Torchbar Farm,x:1070,z:-655,y:85,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Treetops Shelter,x:3625,z:-3790,y:100,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Tristitia,x:2920,z:-1340,y:70,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Water Spire,x:-2630,z:-3190,y:80,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Whitehaven,x:-560,z:-1120,y:100,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Wind Spire,x:290,z:-1680,y:18,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Worthington,x:3720,z:-280,y:110,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Yawpton,x:-1280,z:-530,y:100,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Yongton Abbey,x:-2110,z:-1280,y:110,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Zerbia Ship,x:2770,z:-2720,y:90,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Zerbia,x:2495,z:-3480,y:240,enabled:true,red:0.4509803,green:0.7607843,blue:0.9843137,suffix:house,world:Minez,dimensions:0#
+name:Admin Bunker,x:-380,z:-1720,y:18,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Archaeological Dig Site,x:1450,z:-1130,y:80,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Bazaar,x:-525,z:330,y:80,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Birch Tree,x:2115,z:95,y:80,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Boggy Den,x:-3160,z:-1945,y:80,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Bridge Troll Hole,x:-1282,z:1,y:58,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Bridge,x:1067,z:-3411,y:69,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Bridge,x:1350,z:-2750,y:70,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Bridge,x:1365,z:-2525,y:65,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Bridge,x:1720,z:-2885,y:65,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Bridge,x:2141,z:-3421,y:69,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Bridge,x:485,z:-2555,y:70,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Bridge,x:582,z:-3375,y:68,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Bridge,x:665,z:-2605,y:70,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Bridge,x:775,z:-2330,y:70,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Bunker,x:1155,z:375,y:78,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Cabin,x:1580,z:100,y:80,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Cannibal Hideout,x:427,z:-1622,y:43,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Cave System Entrance,x:1105,z:-2005,y:80,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Cave System Entrance,x:1185,z:-1510,y:112,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Cave System Entrance,x:445,z:-2535,y:48,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Cave,x:505,z:210,y:75,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Coastal Outpost,x:1362,z:416,y:80,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Coastal Outpost,x:310,z:450,y:90,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Coastal Outpost,x:658,z:451,y:90,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Coastal Outpost,x:96,z:473,y:90,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Continental Bridge,x:2005,z:505,y:90,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Cozy Cottage,x:-2990,z:-3285,y:70,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Crymoore Pond,x:-150,z:-3340,y:105,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Demo Room,x:-1755,z:475,y:15,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Desert Castle,x:-1440,z:283,y:85,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Desert Castle,x:-750,z:290,y:125,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Drycreek,x:-820,z:175,y:70,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Eclipsed Jungle Watchtower,x:2840,z:-3710,y:100,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Eclipsed Swamp Watchtower,x:-3150,z:-1780,y:70,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Event Arena,x:2880,z:-710,y:40,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Evergreen Dam,x:-355,z:-465,y:80,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Farmhouse,x:1040,z:70,y:70,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Farmhouse,x:120,z:380,y:75,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Farmhouse,x:890,z:80,y:70,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Fisherman House,x:2280,z:-3030,y:70,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Fort Z,x:315,z:-2220,y:80,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Fountain,x:1615,z:-450,y:90,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Geuten Camp,x:3890,z:145,y:66,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Giant Tree,x:-425,z:-165,y:127,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Giant Tree,x:-75,z:-6,y:130,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Giant Tree,x:1085,z:-260,y:135,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Giant Tree,x:1205,z:-1954,y:130,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Giant Tree,x:1300,z:-2720,y:48,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Giant Tree,x:1755,z:-350,y:108,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Giant Tree,x:520,z:-2390,y:130,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Giant Tree,x:710,z:-2810,y:57,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Gnome Island,x:2310,z:-3275,y:80,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Grimdale Tree,x:-1765,z:147,y:83,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Hell Tree Bridge Control,x:-880,z:-3890,y:165,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Huntsgrove Camp,x:894,z:-333,y:66,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Igloos,x:-610,z:-740,y:75,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Intersection,x:690,z:-1620,y:20,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:James' Grave,x:-2155,z:350,y:70,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Jungle Sanctuary,x:3015,z:-3656,y:100,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Jungle Watchtower,x:3900,z:-2470,y:160,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Lighthouse,x:-525,z:560,y:84,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Lighthouse,x:1835,z:565,y:102,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Lighthouse,x:650,z:550,y:85,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Lorfaul Mines Entrance,x:-700,z:-2050,y:155,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Love Shack,x:1588,z:-95,y:70,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Mantle Ruins,x:-510,z:-3830,y:175,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Melon Town,x:-2735,z:-1255,y:80,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Merchant's Outpost,x:-355,z:450,y:40,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Mini Lake,x:-1970,z:-125,y:70,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Mini Lake,x:-410,z:-360,y:70,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Mini Lake,x:-475,z:170,y:70,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Mini Lake,x:0,z:135,y:73,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Mountain Bunker,x:470,z:275,y:183,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Mountain Ice Cavern,x:-630,z:-370,y:103,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Night's Watch HQ,x:1800,z:525,y:90,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Oasis,x:1990,z:-1550,y:90,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Patchwork,x:1265,z:-405,y:90,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:PurpleSunshine Humble Abode,x:3885,z:-1510,y:90,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Ragtag's Cove,x:2400,z:-2800,y:90,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Ridgevale Shack,x:515,z:-320,y:150,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Road Ruins,x:-275,z:425,y:75,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Road Ruins,x:-406,z:517,y:75,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Road Ruins,x:-500,z:450,y:75,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Road Ruins,x:-574,z:437,y:70,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Road Ruins,x:-637,z:340,y:100,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Road Ruins,x:-655,z:430,y:75,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Ruined Fort,x:1450,z:-685,y:80,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Ruined Fort,x:1550,z:-675,y:80,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Ruined Fort,x:90,z:-915,y:80,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Ruins,x:-1085,z:155,y:83,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Ruins,x:-1179,z:246,y:68,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Ruins,x:-1265,z:280,y:75,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Ruins,x:-1300,z:190,y:92,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Ruins,x:-1310,z:80,y:80,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Ruins,x:-2130,z:-325,y:68,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Ruins,x:-2270,z:-1620,y:195,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Ruins,x:-3026,z:-3575,y:95,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Ruins,x:-393,z:442,y:70,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Ruins,x:-463,z:375,y:72,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Ruins,x:-515,z:165,y:85,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Ruins,x:1340,z:255,y:95,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Ruins,x:1700,z:-875,y:75,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Ruins,x:2220,z:-1300,y:80,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Ruins,x:405,z:-1195,y:87,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Ruins,x:715,z:255,y:80,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Ruins,x:75,z:285,y:72,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Ruins,x:950,z:-420,y:80,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Saens,x:2600,z:160,y:90,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Secret Meeting Place,x:1100,z:-1960,y:52,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Secret Stash,x:367,z:297,y:180,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Secret Tunnel,x:-109,z:-2482,y:69,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Snow Cabin,x:-556,z:-2331,y:145,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Snow Tree,x:-280,z:-2110,y:75,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Stairway,x:895,z:-3410,y:70,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Stairway,x:975,z:-2155,y:60,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Strip Mine,x:1445,z:170,y:53,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Sunken Ship,x:-1130,z:520,y:50,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Swamp Pit,x:-3070,z:-1640,y:50,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Thieves' Guild Entrance,x:-1710,z:405,y:80,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Tiny Dock,x:-890,z:-3440,y:65,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Tower,x:150,z:-420,y:220,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Treehouse,x:-2640,z:-3750,y:80,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Virway Tower,x:2250,z:-2695,y:110,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Watchtower,x:-462,z:-682,y:85,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Watchtower,x:1005,z:-220,y:70,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Watchtower,x:1025,z:185,y:80,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Watchtower,x:1500,z:-615,y:70,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Watchtower,x:210,z:5,y:75,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Watchtower,x:215,z:165,y:73,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Water Shrine,x:-640,z:-1865,y:90,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Watering Hole,x:1290,z:95,y:70,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Watering Hole,x:1330,z:-630,y:70,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Watering Hole,x:845,z:330,y:68,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Wizard's Pass,x:395,z:-2705,y:18,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+name:Wooden Bunker,x:-2350,z:-3080,y:70,enabled:true,red:0.8549019,green:0.6470588,blue:0.1254901,suffix:fish,world:Minez,dimensions:0#
+
